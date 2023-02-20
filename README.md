@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Data Science 
 - 🌱 I’m currently learning Python, Machine Learning
 - 💞️ I’m looking to collaborate with people who know more than me and from whom can you take knowledge 
-- 📫 How to reach me ivan1311@list.ru, WhatsApp(87473548852)
+- 📫 How to reach me ivan1311@list.ru, WhatsApp(89315880993)
 
 <!---
 IvanLix0603/IvanLix0603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
